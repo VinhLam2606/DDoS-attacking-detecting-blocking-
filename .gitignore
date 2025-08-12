@@ -1,0 +1,18 @@
+# Thư mục môi trường ảo của Python
+ddos_env/
+venv/
+*.env
+
+# Các file log
+*.log
+
+# Các thư mục cache của Python
+__pycache__/
+*.pyc
+
+# Các file do IDE/editor tạo ra
+.vscode/
+.idea/
+
+# Thư mục templates được tạo tự động bởi script
+templates/
